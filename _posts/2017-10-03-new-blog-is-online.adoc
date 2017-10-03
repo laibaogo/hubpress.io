@@ -8,5 +8,5 @@
 :hp-alt-title: new blog is online!
 
 这里是赖宝的新部落格，使用了开源项目
-[hubpress](https://github.com/HubPress/hubpress.io)
+https://github.com/HubPress/hubpress.io[hubpress]
 提供的便利功能。
