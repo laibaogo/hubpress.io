@@ -6,12 +6,12 @@
     "cname": "www.laibaogo.cn"
   },
   "theme": {
-    "name": "the-shell"
+    "name": "ghostium"
   },
   "urls": {
     "site": "http://www.laibaogo.cn",
     "hubpress": "http://www.laibaogo.cn",
-    "theme": "//www.laibaogo.cn/themes/casper",
+    "theme": "//www.laibaogo.cn/themes/the-shell",
     "images": "http://www.laibaogo.cn/images"
   },
   "initialisationConfigComponent": {
