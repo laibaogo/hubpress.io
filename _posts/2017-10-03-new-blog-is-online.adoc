@@ -1,0 +1,10 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+= 新部落格开通啦！
+:hp-alt-title: new blog is online!
+
+这里是赖宝的新部落格，使用了开源项目hubpress提供的便利功能。
