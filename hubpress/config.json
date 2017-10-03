@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://laibaogo.github.io/hubpress.io",
-    "hubpress": "http://www.laibaogo.cn/hubpress.io",
-    "theme": "//laibaogo.github.io/hubpress.io/themes/casper",
-    "images": "https://laibaogo.github.io/hubpress.io/images"
+    "site": "http://www.laibaogo.cn",
+    "hubpress": "http://www.laibaogo.cn",
+    "theme": "//www.laibaogo.cn/themes/casper",
+    "images": "http://www.laibaogo.cn/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
@@ -25,7 +25,7 @@
     ]
   },
   "site": {
-    "title": "",
+    "title": "赖宝家",
     "description": "",
     "logo": "",
     "cover": "",
