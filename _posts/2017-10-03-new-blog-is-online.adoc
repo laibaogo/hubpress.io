@@ -12,4 +12,4 @@ https://github.com/HubPress/hubpress.io[hubpress @ *Github*]提供的便利功�
 
 image::http://www.laibaogo.com/logo.png[logo,200,160]
 
-http://www.laibaogo.com[赖宝家独家优惠券网站]
+http://www.laibaogo.com[赖宝家淘宝、天猫独家优惠券网站]
