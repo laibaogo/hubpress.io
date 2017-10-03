@@ -7,6 +7,6 @@
 = 新部落格开通啦！
 :hp-alt-title: new blog is online!
 
-这里是赖宝的新部落格，使用了开源项目
+  这里是赖宝的新部落格，使用了*Github*的基础功能"Github pages"搭建，并采用了开源项目
 https://github.com/HubPress/hubpress.io[hubpress @ *Github*]
-提供的便利功能。
+提供的便利功能对部落格进行管理和发布。
